@@ -89,7 +89,7 @@ Fine Tuned Convolution Network를 사용해 CNN의 Fully Connected Layer를 변�
 -  ImgFilter.py : 이미지 처리를 위한 모듈 
 -  img_preprocess.py : 사용한 이미지 처리 기법들 
 -  img_preprocess_fail.py : 실패한 이미지 처리 기법들
-
+-  CleanModelV2.py : 딥러닝 처리를 위한 py
 
 ## 3. Contributors
 
